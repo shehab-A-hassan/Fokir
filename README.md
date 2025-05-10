@@ -22,7 +22,7 @@
 ![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Fokir/refs/heads/master/image/fokir01.jpg)
 
 ## 🔗 رابط المعاينة (Live Preview)
-[اضغط هنا لمعاينة المشروع](رابط_المشروع_هنا)
+[اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Fokir/)
 
 ## 🙋‍♂️ ملاحظات
 - هذا المشروع تم إنشاؤه لأغراض تعليمية.

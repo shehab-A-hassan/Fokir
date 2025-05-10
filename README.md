@@ -19,7 +19,7 @@
 - بناء موقع بسيط ولكنه جذاب وعملي لعرض مهاراتي.
 
 ## 📸 صورة من المشروع
-![Preview](رابط_الصورة_هنا)
+![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Fokir/refs/heads/master/image/fokir01.jpg)
 
 ## 🔗 رابط المعاينة (Live Preview)
 [اضغط هنا لمعاينة المشروع](رابط_المشروع_هنا)

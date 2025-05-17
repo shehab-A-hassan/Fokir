@@ -19,7 +19,13 @@
 - بناء موقع بسيط ولكنه جذاب وعملي لعرض مهاراتي.
 
 ## 📸 صورة من المشروع
-![Preview](https://raw.githubusercontent.com/shehab-A-hassan/Fokir/refs/heads/master/image/fokir01.jpg)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150502.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150528.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150636.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150730.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150802.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150834.png)
+![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150913.png)
 
 ## 🔗 رابط المعاينة (Live Preview)
 [اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Fokir/)

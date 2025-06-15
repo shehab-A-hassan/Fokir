@@ -1,35 +1,54 @@
+# 🎨 Fokir Portfolio Website
 
-# Fokir Portfolio Website
+This is my second project, a personal portfolio website built using **HTML** and **CSS**, with the integration of **Typed.js** to create a dynamic typing effect in the header. The site also includes interactive **hover effects** to enhance user experience.
 
-هذا هو مشروعي الثاني، حيث قمت بتصميم موقع شخصي باستخدام **HTML** و **CSS** مع إضافة مكتبة **Typed.js** لعمل تأثير الكتابة الديناميكية في الهيدر. كما قمت باستخدام بعض التأثيرات التفاعلية مثل الـ **hover effects** لتحسين تجربة المستخدم.
+---
 
-## 📌 فكرة المشروع
-مشروع **Fokir** هو موقع شخصي يعرض أعمالي ومهاراتي في تطوير واجهات المواقع. الهدف من المشروع هو تعزيز مهاراتي في استخدام الأدوات الأساسية لتطوير الويب، مع إضافة بعض التأثيرات التفاعلية لجعل الموقع أكثر ديناميكية.
+## 💡 Project Idea
 
-## 🛠️ التقنيات المستخدمة
-- **HTML**: هيكل الصفحة الأساسية.
-- **CSS**: تنسيق وتصميم الصفحات.
-- **Typed.js**: مكتبة لعمل تأثير الكتابة الديناميكية في الهيدر.
-- **Hover effects**: تحسين تفاعل المستخدم مع عناصر الموقع.
+**Fokir** is a simple personal portfolio template designed to showcase my work and front-end development skills. The main goal of this project is to practice core web development tools while adding interactive touches to make the website more dynamic and engaging.
 
-## 🎯 الهدف من المشروع
-- تحسين مهاراتي في HTML و CSS.
-- دمج JavaScript باستخدام مكتبة **Typed.js**.
-- استخدام تأثيرات CSS لتحسين تجربة المستخدم.
-- بناء موقع بسيط ولكنه جذاب وعملي لعرض مهاراتي.
+---
 
-## 📸 صورة من المشروع
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150502.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150528.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150636.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150730.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150802.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150834.png)
-![Preview](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150913.png)
+## 🛠️ Technologies Used
 
-## 🔗 رابط المعاينة (Live Preview)
-[اضغط هنا لمعاينة المشروع](https://shehab-a-hassan.github.io/Fokir/)
+| Technology   | Purpose                                 |
+|--------------|------------------------------------------|
+| **HTML**     | Structure and layout of the page         |
+| **CSS**      | Styling and visual presentation          |
+| **Typed.js** | Typing animation effect in the header    |
+| **Hover Effects** | Interactive user experience via CSS |
 
-## 🙋‍♂️ ملاحظات
-- هذا المشروع تم إنشاؤه لأغراض تعليمية.
-- أي ملاحظات أو اقتراحات لتحسينه مرحب بها!
+---
+
+## 🎯 Project Goals
+
+- Improve my HTML and CSS skills.
+- Integrate JavaScript using a lightweight library (Typed.js).
+- Apply interactive CSS effects to enhance usability.
+- Build a clean and attractive website to present my abilities.
+
+---
+
+## 📸 Project Screenshots
+
+![Preview 1](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150502.png)
+![Preview 2](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150528.png)
+![Preview 3](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150636.png)
+![Preview 4](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150730.png)
+![Preview 5](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150802.png)
+![Preview 6](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150834.png)
+![Preview 7](https://github.com/shehab-A-hassan/Fokir/blob/master/image/screenshot/Screenshot%202025-05-17%20150913.png)
+
+---
+
+## 🌐 Live Preview
+
+🔗 [Click here to view the live demo](https://shehab-a-hassan.github.io/Fokir/)
+
+---
+
+## 🙋‍♂️ Notes
+
+- This project was created for educational purposes.
+- Feedback and suggestions are always welcome!
